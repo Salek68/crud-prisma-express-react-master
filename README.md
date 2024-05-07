@@ -7,8 +7,7 @@ This project is a full-stack CRUD (create, read, update, delete) application usi
 ```bash
 cd backend
 ```
-
-copy the `.env.example` file to `.env`
+ `.env`
 
 ```
 APP_PORT=5000
